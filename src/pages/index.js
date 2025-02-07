@@ -25,7 +25,7 @@ const Home = ({ allPostsData }) => {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilsStyle.headingMd}>
-        <p>私は発達クソニートです。これから這い上がっていきます。</p>
+        <p>これから這い上がっていきます。見返してやります。</p>
       </section>
 
       <section className={`${utilsStyle.headingMd} ${utilsStyle.padding1px}`}>
